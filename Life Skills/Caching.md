@@ -75,3 +75,9 @@
 
     Thereafter, the cache is responsible for updating the data in the database asynchronously.
 
+
+#### References 
+ - [Reference 1](https://www.geeksforgeeks.org/system-design/caching-system-design-concept-for-beginners/)
+ - [Reference 2](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
+ - [Reference 3](https://www.designgurus.io/answers/detail/what-is-read-through-vs-write-through-cache)
+
