@@ -15,9 +15,6 @@
 
 
 ## 2. Reflective Listening
-
-Reflective listening is a part of active listening but with more focus on emotions, mirroring and confirming the message.
-
 ### Question 2  
 **According to Fisher's model, what are the key points of Reflective Listening? (In simple English)**
 
@@ -62,7 +59,6 @@ Reflective listening is a part of active listening but with more focus on emotio
 **Assertive Communication**  
 - I express my thoughts clearly but with respect for others.  
 
----
 
 ### Question 5  
 **When do you switch to Passive communication style in your day to day life?**  
