@@ -1,6 +1,5 @@
 # Listening and Active Communication
 
-## 1. Active Listening
 ### Question 1  
 **What are the steps/strategies to do Active Listening? (Minimum 6 points)**
 
@@ -13,8 +12,6 @@
 - Remember key details for later follow-up.  
 
 
-
-## 2. Reflective Listening
 ### Question 2  
 **According to Fisher's model, what are the key points of Reflective Listening? (In simple English)**
 
@@ -26,7 +23,6 @@
 - Keep the focus on the other person’s perspective before giving your own.  
 
 
-## 3. Reflection
 ### Question 3  
 **What are the obstacles in your listening process?**
 
