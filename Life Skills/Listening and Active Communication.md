@@ -1,10 +1,6 @@
 # Listening and Active Communication
 
----
-
 ## 1. Active Listening
-**Video - 1:27 minutes**
-
 ### Question 1  
 **What are the steps/strategies to do Active Listening? (Minimum 6 points)**
 
@@ -16,10 +12,9 @@
 - Respond thoughtfully, not just reactively.  
 - Remember key details for later follow-up.  
 
----
+
 
 ## 2. Reflective Listening
-**Wikipedia Link**  
 
 Reflective listening is a part of active listening but with more focus on emotions, mirroring and confirming the message.
 
@@ -33,10 +28,8 @@ Reflective listening is a part of active listening but with more focus on emotio
 - Stay calm and respectful, even in tough conversations.  
 - Keep the focus on the other person’s perspective before giving your own.  
 
----
 
 ## 3. Reflection
-
 ### Question 3  
 **What are the obstacles in your listening process?**
 
@@ -94,5 +87,3 @@ Reflective listening is a part of active listening but with more focus on emotio
 - Listen to the other person’s side fully before replying.  
 - Set boundaries respectfully.  
 - Practice confidence in small conversations daily.  
-
----
