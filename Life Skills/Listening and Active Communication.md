@@ -43,22 +43,6 @@
 - Take short notes to stay focused.  
 - Practice empathy – try to feel what the speaker feels.  
 
----
-
-## 4. Types of Communication
-
-**Passive Communication**  
-- I avoid conflict and stay quiet, even when I should speak.  
-
-**Aggressive Communication**  
-- I push my opinion strongly and sometimes raise my voice.  
-
-**Passive Aggressive Communication**  
-- I don’t say directly but show frustration with sarcasm or silence.  
-
-**Assertive Communication**  
-- I express my thoughts clearly but with respect for others.  
-
 
 ### Question 5  
 **When do you switch to Passive communication style in your day to day life?**  
